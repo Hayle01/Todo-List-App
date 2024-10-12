@@ -39,10 +39,6 @@ A simple, interactive To-Do List web application that helps users stay organized
 3. **Mark a Task as Complete**: Check the checkbox next to a task to mark it as complete.
 4. **Delete a Task**: Click the delete icon to remove a task from the list.
 
-## Screenshots
-
-_Add screenshots here if available._
-
 ## Contact Me
 
 Feel free to reach out with any questions, suggestions, or issues!
